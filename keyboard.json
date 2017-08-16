@@ -1,7 +1,7 @@
 router.get('/keyboard', (req, res) => {
   const menu = {
       type: 'buttons',
-      buttons: ["�޴�1", "�޴�2", "�޴�3"]
+      buttons: ["¸Þ´º1", "¸Þ´º2", "¸Þ´º3"]
   };
 
   res.set({
